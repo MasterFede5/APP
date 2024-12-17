@@ -1,2 +1,3 @@
 # APP
-Prototipo de una aplicación para android
+Iniciación en el lenguaje flutter
+
